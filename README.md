@@ -8,8 +8,5 @@ Game Functionalities: The game is made for mGBA so most of the game functionalit
 
 Game Video Example:
 ## Video Demonstration
+[Watch the video](https://drive.google.com/file/d/19bpiNnLIc96eRJ80jIibTIwH5EkrpeGt/view?usp=sharing)
 
-<video controls width="640" height="360">
-  <source src="https://drive.google.com/file/d/19bpiNnLIc96eRJ80jIibTIwH5EkrpeGt/view?usp=sharing" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
