@@ -7,4 +7,5 @@ There are tree yellow sqaures to catch, with the goalpost. If successfull, in ca
 Game Functionalities: The game is made for mGBA so most of the game functionalities was creating GBA graphics. Main parts of graphics involved creating(drawing) pixels on the screen which was done using a videoBuffer. The biggest challenge was to prevent tearing which is caused when the video buffer gets updated while the videoBuffer is already drawing something else.
 
 Game Video Example:
-https://drive.google.com/file/d/19bpiNnLIc96eRJ80jIibTIwH5EkrpeGt/view?usp=sharing
+## Video Demonstration
+[Watch the video](https://drive.google.com/file/d/19bpiNnLIc96eRJ80jIibTIwH5EkrpeGt/view?usp=sharing)
