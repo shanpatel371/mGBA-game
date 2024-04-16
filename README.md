@@ -1,6 +1,6 @@
 A 2D interactive game that runs using mGBA(Game Boy Advance Emulator)
 
-Game Description: The purpose of this game is to use the 2D button key movement to move the goal post in order to catch the yellow squares.
+<mark>Game Description</mark>: The purpose of this game is to use the 2D button key movement to move the goal post in order to catch the yellow squares.
 
 There are three yellow sqaures to catch, with the goalpost. If successfull, in catching all the balls, you will be taken to the win screen and if if you unsuccessful in catching a ball before it enters the red zone, you loose the game.
 
