@@ -1,12 +1,17 @@
-A 2D interactive game that runs using mGBA(Game Boy Advance Emulator)
+In this 2D interactive game designed to run on mGBA (Game Boy Advance Emulator), your goal is to maneuver a goalpost using button controls to catch yellow squares. Let's delve into the game's mechanics and features.
 
-<mark>Game Description</mark>: The purpose of this game is to use the 2D button key movement to move the goal post in order to catch the yellow squares.
+### Game Description:
+Your objective is straightforward: control the movement of a goalpost to intercept three yellow squares before they pass a certain threshold. The game utilizes basic 2D button key movements to navigate the goalpost across the screen. The challenge lies in timing and precision as you attempt to intercept the squares while avoiding letting any slip past into the red zone.
 
-There are three yellow sqaures to catch, with the goalpost. If successfull, in catching all the balls, you will be taken to the win screen and if if you unsuccessful in catching a ball before it enters the red zone, you loose the game.
+### Game Functionality:
+The game leverages the capabilities of mGBA, primarily focusing on creating graphics tailored to the Game Boy Advance platform. Graphics rendering is achieved by manipulating the video buffer to draw pixels on the screen. One of the key technical challenges overcome during development was preventing tearing, a visual artifact caused by simultaneous updates to the video buffer while it's in the process of rendering.
 
-Game Functionalities: The game is made for mGBA so most of the game functionalities was creating GBA graphics. Main parts of graphics involved creating(drawing) pixels on the screen which was done using a videoBuffer. The biggest challenge was to prevent tearing which is caused when the video buffer gets updated while the videoBuffer is already drawing something else.
+### Gameplay Mechanics:
+- **Movement Controls:** Players use directional buttons to move the goalpost horizontally and vertically.
+- **Interception Challenge:** Three yellow squares must be intercepted by the goalpost before they cross into the red zone.
+- **Win Condition:** Successfully intercepting all three squares leads to victory, triggering the win screen.
+- **Loss Condition:** Failing to intercept a square before it enters the red zone results in a loss, ending the game.
 
-Game Video Example:
-## Video Demonstration
+### Game Video Example:
 [Watch the video](https://drive.google.com/file/d/19bpiNnLIc96eRJ80jIibTIwH5EkrpeGt/view?usp=sharing)
 
