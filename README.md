@@ -13,6 +13,5 @@ The game leverages the capabilities of mGBA, primarily focusing on creating grap
 - **Loss Condition:** Failing to intercept a square before it enters the red zone results in a loss, ending the game.
 
 ### Game Video Example:
-[Watch the video]
 https://github.com/user-attachments/assets/75c2987d-37fd-4bfc-9dd8-4eb208b853e4
 
